@@ -3,6 +3,10 @@
 Welcome to Muji App! This is a web application for managing cities. It is built using HTML, CSS, Tailwind CSS, and Firebase for data storage.
 Link: https://fir-demo-57641.web.app/
 
+![muji](https://github.com/marcellintacite/mujiApp-drcmind/assets/71480535/e1a51a5f-b776-47af-982a-ca77d67999aa)
+![muji lo](https://github.com/marcellintacite/mujiApp-drcmind/assets/71480535/7d62c278-794d-4ffb-ad3a-a456350957c4)
+
+
 ## Getting Started
 
 Follow these instructions to get the Muji App up and running on your local machine.
